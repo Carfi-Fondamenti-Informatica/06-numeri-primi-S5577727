@@ -1,5 +1,5 @@
-#ifndef LLIB_H
-#define LIB_H
+#ifndef LLIB.H
+#define LIB.H
 
 int funzione(int);
 

@@ -6,9 +6,7 @@ int main(){
   int n;
   cin >> n;
   
-  bool funzione (int n);
-  
-  if (funzione(n)==true) cout << "numero primo";
+  if (funzione (n==true)) cout << "numero primo";
   else cout << "numero non primo";
   return 0;
 }

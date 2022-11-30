@@ -1,5 +1,5 @@
 #include <iostream>
-#include <primaLibreria.h>
+#include <lib.h>
 
 int main(){
   int n;

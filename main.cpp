@@ -8,7 +8,7 @@ int main(){
   
   bool funzione (int n);
   
-  if (funzione==true) cout << "numero primo";
+  if (funzione(n)==true) cout << "numero primo";
   else cout << "numero non primo";
   return 0;
 }

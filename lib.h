@@ -1,6 +1,6 @@
-#ifndef LIB_LIB_H
-#define LIB_LIB_H
+#ifndef LLIB_H
+#define LIB_H
 
 int funzione(int);
 
-#endif //LIB_LIB_H
+#endif //LIB_H

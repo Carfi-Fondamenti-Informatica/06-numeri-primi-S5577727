@@ -1,6 +1,6 @@
-#ifndef ES6_NUMERIPRIMI_LIB_H
-#define ES6_NUMERIPRIMI_LIB_H
+#ifndef UNTITLED_LIB_H
+#define UNTITLED_LIB_H
 
-bool funzione(int,int);
+bool funzione (int,int);
 
-#endif //ES6_NUMERIPRIMI_LIB_H
+#endif //UNTITLED_LIB_H
